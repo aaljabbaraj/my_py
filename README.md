@@ -4,4 +4,7 @@
 - test pycharm
 - gitignore
 - changer from web2
+- test nano git bash
+
+
 #dev py
